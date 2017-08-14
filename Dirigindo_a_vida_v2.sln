@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dirigindo_a_vida_v2", "Assembly-CSharp.csproj", "{2D1AAB15-DAC8-DD3E-E19E-A6F544C648EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D1AAB15-DAC8-DD3E-E19E-A6F544C648EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1AAB15-DAC8-DD3E-E19E-A6F544C648EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1AAB15-DAC8-DD3E-E19E-A6F544C648EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1AAB15-DAC8-DD3E-E19E-A6F544C648EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

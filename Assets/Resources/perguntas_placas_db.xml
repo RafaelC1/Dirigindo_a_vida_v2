@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<perguntas>
+  <p1>
+    <respostaA>Animais selvagens . </respostaA>
+    <respostaB>Trafego de animais.</respostaB>
+    <respostaC>Área florestal.</respostaC>
+    <respostaCorre>a</respostaCorre>
+  </p1>
+  <p2>
+    <respostaA>Terreno Elevado.</respostaA>
+    <respostaB>Lombada. </respostaB>
+    <respostaC>Monte.</respostaC>
+    <respostaCorre>b</respostaCorre>
+  </p2>
+  <p3>
+    <respostaA>Pare.</respostaA>
+    <respostaB>siga.</respostaB>
+    <respostaC>nenhuma das duas.</respostaC>
+    <respostaCorre>a</respostaCorre>
+  </p3>
+  <p4>
+    <respostaA>Mínimo de velocidade .</respostaA>
+    <respostaB>Ultrapasse 60km/h.</respostaB>
+    <respostaC>Limite de velocidade é 60km/h. </respostaC>
+    <respostaCorre>c</respostaCorre>
+  </p4>
+  <p5>
+    <respostaA>Cuidado risco de deslizamento.</respostaA>
+    <respostaB>Construção a diante.</respostaB>
+    <respostaC>Não jogue lixo enquanto dirige.</respostaC>
+    <respostaCorre>a</respostaCorre>
+  </p5>
+  <p6>
+    <respostaA>10 metros de distancia de caminhões .</respostaA>
+    <respostaB>Máximo de extensão de caminhão  10 metros.</respostaB>
+    <respostaC>10 milímetros de distancia de caminhões .</respostaC>
+    <respostaCorre>a</respostaCorre>
+  </p6>
+  <p7>
+    <respostaA>Obstáculo à frente.</respostaA>
+    <respostaB>Alfandega .</respostaB>
+    <respostaC>Via expressa. </respostaC>
+    <respostaCorre>b</respostaCorre>
+  </p7>
+  <p8>
+    <respostaA>Realizando obras.</respostaA>
+    <respostaB>Obras a 100m.</respostaB>
+    <respostaC>Redução de faixa.</respostaC>
+    <respostaCorre>a</respostaCorre>
+  </p8>
+  <p9>
+    <respostaA>Proibido estacionar ao lado.</respostaA>
+    <respostaB>Proibida ultrapassagem. </respostaB>
+    <respostaC>Ultrapassagem .</respostaC>
+    <respostaCorre>b</respostaCorre>
+  </p9>
+  <p10>
+    <respostaA>Semáforo à frente.</respostaA>
+    <respostaB>Semáforo quebrado.</respostaB>
+    <respostaC>Sem semáforo à diante.</respostaC>
+    <respostaCorre>a</respostaCorre>
+  </p10>
+  <p11>
+    <respostaA></respostaA>
+    <respostaB></respostaB>
+    <respostaC></respostaC>
+    <respostaCorre></respostaCorre>
+  </p11>
+</perguntas>
